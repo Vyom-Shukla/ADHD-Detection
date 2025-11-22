@@ -1,5 +1,3 @@
-Collecting workspace information# ADHD Detection Using Logistic Regression
-
 ## Project Overview
 
 This project develops a machine learning model to detect ADHD (Attention-Deficit/Hyperactivity Disorder) using logistic regression. The model is trained on a combination of clinical assessments, accelerometer data, and heart rate variability (HRV) features to predict ADHD diagnosis with high accuracy (ROC-AUC: 0.9814).
@@ -130,4 +128,4 @@ probabilities = model.predict_proba(X)[:, 1]
 
 ## Author
 
-Machine Learning Pipeline for ADHD Detection
+Vyom Shukla
